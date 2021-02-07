@@ -11,4 +11,4 @@ You work at a leading social media platform and your team has been tasked to bui
 ## Results
 
 Following are some of the predictions by the trained model <br><br>
-![](images/test_predictions.png)<br>
+![](images/test_predictions.png | height=70)<br>
