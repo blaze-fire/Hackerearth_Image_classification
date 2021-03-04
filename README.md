@@ -9,6 +9,10 @@ In this project our role is to use Deep Learning to develop a model that classif
 
 [Link for the trained model](https://drive.google.com/file/d/1eUO3e6_RVYYsW3WiynUKQBI6BA681Xaj/view?usp=sharing)
 
+# Leaderboard
+
+* **[Public LB](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/leaderboard/holiday-season-11-2c924626/)** : **35th Rank**
+
 ## Results
 
 Following are some of the predictions by the trained model <br><br>
