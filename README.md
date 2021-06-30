@@ -11,7 +11,7 @@ In this project our role is to use Deep Learning to develop a model that classif
 
 # Leaderboard
 
-* **[Public LB](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/leaderboard/holiday-season-11-2c924626/)** : **35th Rank**
+* **[Public LB](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/leaderboard/holiday-season-11-2c924626/)** : **44th Rank**
 
 ## Results
 
